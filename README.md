@@ -23,6 +23,8 @@ In the data preprocessing phase,performed the following steps:
 
 * Merged dataset columns
 
-### Exploratory Data Analysis
+### Carried out Exploratory Data Analysis
 
-### Indicators Analysis
+### Indicators Analysis through correlation heatmap
+
+###Conducted a two-sample t-test on mean values of development indicators between pre-COVID (<=2019) and during-COVID (>=2020) periods, determining significant impacts through p-values.
