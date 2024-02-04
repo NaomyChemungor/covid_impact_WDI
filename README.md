@@ -21,8 +21,6 @@ In the data preprocessing phase,performed the following steps:
 6. Standardized 'new_cases' and 'greenhouse gas emissions' from 0 to 1 for better comparison.
 7. Merged World Development Indicators and Covid-19 data using the 'year' column.
 
-* Merged dataset columns
-
 #### Carried out Exploratory Data Analysis
 
 #### Indicators Analysis through correlation heatmap
